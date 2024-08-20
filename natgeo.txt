@@ -1,0 +1,276 @@
+Planet circling a burned-out star offers a glimpse at the solar system's fate.
+
+The Jupiter-size world narrowly avoided destruction as its star ballooned during its death throes-just as our sun is expected to do in about five billion years.
+
+Perhaps the luckiest planet in the Milky Way lives about 6,500 light-years away, toward the center of our galaxy: a large, gassy world that narrowly escaped being obliterated by its dying home star.
+
+Astronomers spotted the system, described today in the science journal Nature, when the planet and its star distorted background starlight. The faraway, fortunate Jupiter-size world is circling a tiny stellar corpse - a dim white dwarf star about the size of Earth that was once much like the sun. As that star aged, it expanded into a red giant before collapsing into the dense white dwarf - a process that can easily destroy orbiting planets.
+
+"It would have been very easy to lose this planet," says Caltech's Juliette Becker, who was not involved in the detection. "Most likely it barely avoided destruction."
+
+Had the planet lived a bit closer to its star, it could have suffered a number of grisly fates, from incineration to shredding - one of which will eventually befall Earth when the dying sun swells into a red giant star. Scientists suspect this alien planetary system could be analogous to what our own solar neighborhood will look like after the sun has burned down to an ember.
+
+"This system is very similar to what we expect for the end state of our solar system," says study author David Bennett of NASA's Goddard Space Flight Center.
+
+The system also helps scientists understand how frequently planets might survive the violent deaths of their home stars. If it turns out that intact planets are common around white dwarfs, then there are "more planets out there than we thought," says astronomer Scott Gaudi of the Ohio State University.
+
+"That means that our counting of planets in the galaxy has likely been underestimated until now," he says. "In the exoplanet field, the joke is, every rock you turn over, you find a new planet."
+
+Going out in a blaze of glory.
+
+As stars age, they run out of hydrogen to feed the nuclear furnaces in their bellies, triggering a sequence of events that can be very dangerous for any orbiting planets. In about five billion years, this will happen to the sun - and when it does, Earth is in trouble.
+
+Slowly, the hydrogen-starved sun will balloon into a red giant star. As it inflates, it will engulf and incinerate Mercury and then Venus. Earth, if it escapes incineration, will almost certainly be ripped apart by the star's gravity. Mars is probably far enough away to survive. In the outer solar system, the four giant planets will get pushed around, most likely into more distant orbits - although in some special cases, they could be tossed out of the solar system entirely or even hurled into the sun.
+
+"There's a lot of really weird things that can happen to the planets in a system as the star is evolving," Becker says. "The process is fairly violent, especially for planets in the inner part of the system."
+
+About a billion years after expanding into a red giant, the sun will collapse into a dense, stellar corpse - a white dwarf star with roughly half its original mass, squeezed into a sphere about the size of Earth. That process can also wreak havoc on nearby planets. Any worlds that are left behind will find themselves in a neighborhood that looks very different than before. And even if the four giant planets make it through, there's a good chance that all of them will be lost over billions of years through encounters with passing stars.
+
+Surviving the inferno.
+
+Although astronomers suspect planets can survive the chaotic deaths of their host stars, they haven't found many examples of planets that made it through the maelstrom. The newly described system was first spotted in 2010 by scientists with the Microlensing Observations in Astrophysics collaboration, when the surviving planet and its white dwarf star moved directly in front of a more distant background star.
+
+That alignment allowed the pair's gravity to magnify and distort the faraway starlight, producing what astronomers refer to as a microlensing event. So far, microlensing has revealed the presence of about 90 worlds, including some free-floating planets, or rogue worlds that have slipped away from their home stars and roam the galaxy alone.
+
+The precise way in which the giant planet and white dwarf bent the background starlight revealed several crucial characteristics of the system, including its motion on the sky, the presence of both a star and a planet, and the planet's large orbit. The observations also helped astronomers calculate the relative masses of the two objects. Called MOA-2010-BLG-477Lb, the system intrigued astronomers - but they'd have to wait several years to try to get a closer look.
+
+"It's hard to distinguish the foreground star from the background star when the [microlensing] event occurs because they have to be right on top of each other," Bennett says. "So we wait for them to separate."
+
+In 2015, Bennett and his colleagues used the powerful Keck-II telescope atop Mauna Kea in Hawaii to go hunting for the star. They knew how far the system must have traveled over those five years, so they aimed Keck at their target, peered into the darkness, and found nothing resembling the star they were looking for - just a different star, moving in the wrong direction.
+
+The team repeated the observations in 2016, again in 2018, and both times came up empty. But they knew the system had to be there, based on the distorted starlight. The inability to see it told Bennett and his colleagues that whatever they were seeking was so dim that not even Keck could spot it.
+
+"We knew it had to be a dark star that was a bit less massive than the sun, and white dwarfs are the obvious choice," Bennett says.
+
+After running a few more calculations, the team concluded that the system involved a Jupiter-mass world and a white dwarf star with roughly half the mass of the sun. The planet's orbit carries it at least 2.8 times farther from its star than Earth orbits the sun, putting it in roughly the same place as our solar system's asteroid belt.
+
+"This planet is out where we expect giant planets to form," Gaudi says. "And it shows that these Jovian analogs can survive the evolution of a sunlike star."
+
+Somehow, that massive world grew up and lived in the exact right place to avoid the lethal consequences of its star's transformation - a distance that depends not only on the dying star, but on the characteristics of the planet and the movements of any siblings it might have.
+
+Searching for more planets circling white dwarfs.
+
+Astronomers have found evidence for planets orbiting white dwarfs before, but none of those detections are quite like this new one. In 2019, an international team of astronomers spotted a gassy debris ring around a white dwarf and surmised that a small, dense planetary remnant may be embedded in the debris - a destroyed world that may resemble Earth's inevitable fate. Several other debris disks have also been identified, thought to be the shredded remains of unfortunate planets and asteroids.
+
+Last year, another team using NASA's exoplanet-hunting TESS instrument identified a candidate planet - a giant world-orbiting a white dwarf in a mere 34 hours. That planet is so close to its host star, it "would have definitely been engulfed during the red giant phase," Becker says. "Which means it had to migrate into its location after the star became a white dwarf."
+
+And over the last two decades, scientists have seen smears of chemical elements on white dwarf stars' faces - the crumbs of chewed up, rocky worlds.
+
+All of these observations, in addition to the newly discovered system, suggest that some planets can survive their host stars' evolutionary transformations - at least for a time. But the processes that determine whether a planet survives or meets its doom are still fuzzy.
+
+NASA's Nancy Grace Roman Space Telescope, slated to launch in the mid-2020s, should reveal plenty of planets orbiting white dwarfs. And as astronomers spot more planets circling these stellar corpses, they'll learn more about how a star's death throes alter the architecture of planetary systems, allowing us to gaze into our own solar system's future.
+
+The newly discovered system may even have additional planets circling the white dwarf, Bennett says. While our own planet will not survive the sun's dramatic death - at least not in any recognizable state - perhaps other worlds will, and the solar system will live on transformed.
+
+
+
+
+
+
+Yellowstone flooding: Why is it happening now?
+
+Rain falling on snow caused this week's floods, events that will become more likely as temperatures warm.
+
+Yellowstone National Park evacuated more than 10,000 visitors on Tuesday after flash floods roared through the park. Roads and bridges washed away, sewage lines broke, and the park's gateway communities were cut off from roads. Yellowstone remains closed, and the north entrance gate will likely not reopen this season.
+
+Even as scientists and land managers are taken aback by the magnitude of the floods, unprecedented in 100 years of recorded history, they recognize the similarities to the events their data predicted. They just weren't anticipating them to occur this year.
+
+"As a scientist I would say, well, this is completely in line with what we might expect," says Cathy Whitlock, a paleoclimatologist and lead author of the Greater Yellowstone Climate Assessment, the first such report ever done on an ecosystem. "As a human being I would say I'm shocked."
+
+While it will take more research to confirm if climate change made this flood event more extreme, the 2021 Greater Yellowstone Climate Assessment predicts significant changes in precipitation, including when it arrives and what form it will take. Scientists expect more spring rain, less winter snow. The assessment also predicts increasing annual precipitation in Yellowstone National Park.
+
+Changes are already documented in the assessment. Since 1950, spring precipitation in the region has increased by 17 percent in April and 23 percent in May. Snowfall has declined even as overall annual precipitation has increased. That means rather than a slow release of melt water to valleys during the summer months, rainfall tends to combine with melting snow, causing riskier events like the recent flood.
+
+Changing climate shapes the landscape.
+
+Throughout its tumultuous geologic history, climate change and extreme flooding shaped the landscape around Yellowstone. Even today, shifting natural events are part of life in the western United States. For example, last year, Yellowstone National Park received the lowest precipitation recorded in June - ever.
+
+Ann Rodman,Yellowstone National Park's Geographic Information Systems manager, who works on climate adaptation planning, thought this summer would be similarly parched. Just two months ago, she calculated a 5 percent chance of flooding in the park. Then a big snowstorm fell in the mountains over Memorial Day after an already cool and wet spring.
+
+Still, she expected those mountain moisture gains to dry up once the hot months started.
+
+In mid-June, the jet stream carried in exceptionally wet weather dropping rain on the unusually snowy mountains. Warm temperatures helped melt the snowpack. And as temperatures warm, these rain-on-snow events are projected to become more frequent at higher elevations in western North America, while lower snowpack will make them less frequent at low elevations.
+
+ Yellowstone's Superintendent Cam Sholly said during a Tuesday press conference he's been advised that the flood could be a thousand-year event. One of the highest recorded stream flow measurements for the Yellowstone River was 31,000 cubic feet per second, recorded in the 1990s. Stream flow readings during the recent flood were as high as 51,000 cubic feet per second.
+
+"What happened this week was not anything I was expecting," says Rodman. June precipitation this year is now at more than 400 percent above average in the parts of Montana and Wyoming that include Yellowstone. "We had rain that went all night and all day and it was kind of torrential. We just don't get that kind of rain here." On Monday, she watched from her house in Gardiner, just outside Yellowstone's north entrance, as park employee housing slid into the Yellowstone River.
+
+While the current floods are similar to what Rodman and others expect based on long-term climate predictions, they are surprising in the sense that just earlier this month she was ready to talk to people about severe drought and fire.
+
+"We agree that we couldn't have anticipated this," says Rodman. "So what should we learn from this and what should we be thinking about going forward?"
+
+Preparing for the worst.
+
+That growing need to expect rapidly changing conditions is why Yellowstone National Park and the National Park Service are looking ahead to plan for different scenarios as the climate changes. Bruce Stein, chief scientist of the National Wildlife Federation, collaborated with the Park Service on a 2021 climate planning report. He says relative to other federal agencies the organization is "ahead of the curve."
+
+But he too was caught off guard. Several years ago, when he trained Yellowstone National Park employees for climate planning, they focused on the features that draw visitors to Yellowstone - like bison and wolves. Roads, bridges, and houses getting washed away were not on their radar.
+
+"Even when we try and do our best to project the possible range of things, we end up being surprised," says Stein. "And I think that the flooding in the Yellowstone kind of falls into that category."
+
+"It's those unexpected and oftentimes worse than the worst case projected scenarios that we are starting to see."
+
+Thanks to the recent floods, Yellowstone National Park and small towns in southwest Montana will join the ranks of communities that are being forced to rethink their infrastructure, or likely end up rebuilding it after the next flood.
+
+"It's really clear that our infrastructure is not well placed for climate change," says Whitlock. "The fact that we're losing these roads, and there's these massive landslides and houses are washing away clearly means that we're not thinking enough about the impacts of climate change in our land use and in our infrastructure development. And we need to do a better job of that. Because that's the cost and that's the tragedy."
+
+The road ahead.
+
+Yellowstone National Park is already taking a cue from climate planning in thinking about the now-washed out north entrance road that used to carry visitors the five miles from the park's popular north entrance at Gardiner to its headquarters at Mammoth Hot Springs. The park superintendent said at the press conference that the road will not be built back in the same place, citing changes on the horizon.
+
+"I think it is smart and forward looking," says Rodman. "[The superintendent] is very aware of the need to consider potential impacts from climate change when planning infrastructure projects. I think the recent event underscored just how big those impacts can be."
+
+Similarly, Denali National Park in Alaska is battling road closures caused by melting permafrost, and is exploring alternatives to road repair, including a bridge over the landslide or re-routing the road.
+
+As climate planners, Rodman and her colleagues struggle with these issues daily. "It affects everything, so how do you get a thoughtful way with limited resources? What's the most effective thing you can do that will actually make a difference?"
+
+For the millions of people who love national parks and Yellowstone, and for those who live in the region, or had their summer plans dashed, unprecedented events can come with a kind of grief, or even resentment.
+
+Stein suggests the public try to embrace the unexpected, even as it can be heartbreaking and difficult to watch our favorite places rapidly and sometimes dramatically reshaped. 
+
+"I think at a deeper level to understand and love the concept of what a national natural park is, is to accept that there are changes that have always been taking place," he says.
+
+"And, of course, now they're taking place on an accelerated scale. What makes it difficult is that so many of these accelerated changes are due to climate impacts that have a human fingerprint on them."
+
+
+
+
+
+In the Arizona desert, NASA prepares for walking on the moon.
+
+Astronauts in spacesuits navigated a lava-covered landscape to test the tools and procedures needed for real lunar missions.
+
+One recent October evening, NASA astronaut Zena Cardman strolled through a field of lava rock in a mockup spacesuit, her eyes set on the moon-like landscape. Cardman, a geobiologist, and fellow astronaut Drew Feustel were on a mission to collect rock samples near Arizona's SP Crater, an 800-foot-tall cinder cone that formed during a volcanic eruption many millennia ago.
+
+NASA had seen to it that Cardman and Feustel's nighttime trek would not be easy. Long shadows slithered across the craggy landscape, cast by an artificial sun in the form of a light moved around by a scientist. When Cardman and Feustel dipped out of the glare - meant to recreate the lighting at the lunar south pole - and entered small valleys, they could see for no more than 30 feet. The pair scrutinized the rock features under lights mounted to their spacesuits, trying to orient themselves using deliberately low-resolution maps of the area, as if they were working off images from lunar satellites. No GPS or compass bearings were allowed during their "EVA," short for extravehicular activity. After all, neither work on the moon.
+
+The simulated moonwalk was isolating, challenging, and disorienting - but Cardman and Feustel were not alone. A team of scientists and flight operations personnel at NASA's Johnson Space Center in Houston, Texas, pored over maps of the volcanic crater and tracked the astronauts' progress. Mission control then transmitted a stream of instructions and advice, all of which funneled to astronaut Kate Rubins, who served as "CapCom": the voice in Cardman and Feustel's ears and the pair's main point of contact.
+
+In October, NASA scientists and astronauts gathered in Arizona for JETT3 and D-RATS, two analog missions meant to test procedures for future moonwalks and lunar rover operations.
+
+"It was actually remarkably difficult," Cardman says. "Mission control is telling us: We're pretty sure you should see a hill in front of you, and the valley will open again. And we're like: Maybe! Do we keep going? … Is it in 20 feet, or half a mile?"
+
+This mission, known as the Joint EVA Test Team 3 (JETT3), was NASA's latest simulated moonwalk under the agency's Artemis program, which aims to return people to the moon as soon as 2025. Neither Cardman nor Feustel - nor any NASA astronaut, for that matter - has been selected for a ride to the moon yet.
+
+The main goal of JETT3 and other analog missions like it is not to train the astronauts, but to test everything else, from the chisels the moonwalkers will wield to the documentation that scientists back on Earth will use to catalog each excursion on the lunar surface.
+
+"The main job of an analog is to develop and test new hardware and new ways of doing things in a really cheap, safe environment compared to space," says NASA astronaut Stan Love, who has participated in multiple such missions. "It's super embarrassing if you swing your geologic hammer and crack your helmet faceplate. We don't want that to happen!"
+
+Mimicking a mission to the moon.
+
+NASA has run analog missions all over the world and has multiple purpose-built facilities for different types of testing. The Neutral Buoyancy Lab, a gigantic pool at Johnson Space Center, lets teams do full-length spacewalks underwater in pressurized suits. Johnson's ARGOS facility uses steel cables and computerized motors to let astronauts move as if they were experiencing the gravity on Mars or the moon.
+
+With the Artemis program underway, the space agency is spinning up its full-scale analog missions once again, with real tools, real procedures, and real mission controls. "We have done this before, but it's been a decade," says JETT3 participant Sarah Noble, the lunar science lead within NASA's planetary sciences division. "This test was set up to be as real as possible."
+
+Preparing for Artemis also requires ironing out a new kind of moonwalk, one with science as a top priority. Apollo astronauts received extensive field geology training and the many samples they brought back changed how we understand the history of the moon, but scientists on Earth were "basically cut off from speaking with their representatives on the lunar surface," says Love, a planetary geologist by training. Live scientific input wasn't a priority for Apollo: The main objective was to beat the Soviets to the moon. So NASA prioritized the flight procedures of the risky mission.
+
+Since the days of Apollo, science has become core to the U.S. astronaut program's mission. On the International Space Station, for example, astronauts routinely run experiments, and flight operations staff allow scientists to communicate directly with astronauts in mid-mission. But that level of scientific back-and-forth is possible on the ISS only because of experience: For more than two decades, people have been living and working in the laboratory, which orbits just 250 miles above Earth's surface.
+
+By contrast, Artemis crews will be more than 225,000 miles away when they perform the first moonwalks in more than five decades - a far riskier arrangement. For Artemis III, the program's first crewed lunar landing, each EVA is expected to last between four and eight hours. Mid-mission communication between scientists and astronauts during these kinds of risky situations is "a concept that we haven't ever exercised," Love says. "Yet we need to be able to do that in order to get the best science done in the limited time we have."
+
+JETT3 uncovered wrinkles that could waste precious time during a real moonwalk. On the first day, Noble and the science team gathered in a room with auditorium-style seating that faced large screens with readouts from the mission. But within minutes, scientists ran to the back of the room to huddle around a printed geologic map. The next day, the team was relocated to a conference room where they could move the tables around. "It was really interesting," Noble says. "Immediately we walked in and were like, this isn't how scientists think."
+
+A moon buggy for the future.
+
+As NASA and its international partners prepare to return to the lunar surface, they are also readying technologies that could enable a whole new era of exploration. In 2020, for example, Japan's space agency announced that it was partnering with Toyota to build a crewed, pressurized moon rover. But before astronauts can scoot around lunar craters in a Toyota, engineers on Earth need as much data as possible on the astronauts' needs.
+
+So in mid-October, a team including NASA astronaut Jessica Meir and Japanese astronauts Akihiko Hoshide and Norishige Kanai participated in an analog mission called the Desert Research and Technology Studies, or Desert RATS (D-RATS). The trio of astronauts, as well as a team of engineers, lived for about a week in groups of two within a NASA test rover, driving around Black Point Lava Flow near SP Crater.
+
+Love, who did a D-RATS mission on the same rover in 2010, says that these tests provide exacting insights into astronauts' needs, from better navigation cameras to more robust systems for rehydrating food. At the top of Love's wish list: a better toilet than the current model, which amounts to a series of multi-layered plastic bags. "There's not enough Febreze in the world to take care of the odors that come with storing your own waste at room temperature," he says.
+
+Desert RATS and JETT3 are just the most recent analog missions in a string going back decades. In fact, for Cardman, JETT3 was a kind of scientific homecoming. Back in 2009, when she was an undergraduate student at the University of North Carolina at Chapel Hill, she had been part of the science team of a D-RATS mission. Thirteen years later, on the other side of mission control, she sees a bright future for NASA's lunar ambitions.
+
+"The reason that I wanted to be an astronaut was to be part of a team that's much bigger than myself, much greater than I could do on my own - and this was such a team effort," she says. "We're in good hands."
+
+
+
+
+
+How a parasitic fungus turns ants into 'zombies'.
+
+The deadly parasite's grand finale involves sending toxic spores blooming from the dead ant's head.
+
+They walk among us: insects hijacked by parasitic fungi that control their every move.
+
+The Ophiocordyceps unilateralis fungus has just one goal: self-propagation and dispersal. Researchers think the fungus, found in tropical forests, infects a foraging ant through spores that attach and penetrate the exoskeleton and slowly takes over its behavior.
+
+As the infection advances, the enthralled ant is compelled to leave its nest for a more humid microclimate that's favorable to the fungus's growth. The ant is compelled to descend to a vantage point about 10 inches off the ground, sink its jaws into a leaf vein on the north side of a plant, and wait for death.
+
+Meanwhile, the fungus feeds on its victim's innards until it's ready for the final stage. Several days after the ant has died, the fungus sends a fruiting body out through the base of the ant's head, turning its shriveled corpse into a launchpad from which it can jettison its spores and infect new ants.
+
+"It definitely speaks to the imagination of both scientists and the general public," says Charissa de Bekker, a University of Central Florida professor who studies parasite-host interactions that lead to behavioral manipulations.
+
+As in zombie lore, there's an incubation period where infected ants appear perfectly normal and go about their business undetected by the rest of the colony. That's unusual because social insects like ants usually have something called social immunity: Sick members get kicked out of the group to prevent the rest from getting sick too. "We think the ants don't really have a mechanism to get rid of Ophiocordyceps," de Bekker says.
+
+While the infection is 100 percent lethal, the goal isn't to convert all the ants into the walking dead. For ecosystems to stay balanced, fungi have to keep host populations in check. In fact, only a few ants in a colony are infected at any given time.
+
+"It's almost like a chronic cold," de Bekker says.
+
+And perhaps in the biggest deviation from the zombie playbook, Ophiocordyceps unilateralis don't seem to invade the brain.
+
+Using a type of fluorescent microscopy, researchers from Pennsylvania State University watched fungal colonization in ants from the gaster, the rear end of the abdomen, to the head - and found no trace of fungal cells in the brain. They coupled that information with computer algorithms to chart the movement of fungi as they formed a sort of tubular scaffolding within and around ants' muscle bundles.
+
+This suggests the fungus casts its mind control through bioactive compounds that interfere with the ant's nervous system and control hosts directly at the muscles, de Bekker says.
+
+Researchers in Thailand and the United States are studying different Ophiocordyceps species that infect other species of ants to compare their control mechanisms. In all, researchers have identified over 200 species of Ophiocordyceps that can infect hosts from 10 insect orders, as well as spiders, though not all lead to behavioral manipulation.
+
+One related species, O. sinensis, colonizes ghost moth caterpillars and erupts from their head like a unicorn horn. The fungus-caterpillar husk combination is prized in traditional Tibetan and Chinese medicine as an immune booster, cancer treatment, and aphrodisiac. In a bizarre twist, Ophiocordyceps species that inhabitat Japanese cicadas may have even replaced symbiotic bacteria to help their hosts process nutrients from sap.
+
+Much like the microbiome in our own guts, insects contain a whole array of fungal species, says Barrett Klein, an entomologist at the University of Wisconsin in La Crosse. But because not all fungi can be grown in the lab, only a couple have been closely studied, much less flagged for causing behavioral manipulations.
+
+Scientists do know of a few though. There's Entomophthora muscae, which literally means "insect destroyer of the fly" in Greek. It causes infected flies to climb a certain height, glue themselves at the mouth to a plant, and assume an abdomen-up "death pose" that's optimal for spore dispersal. (Watch the flies turn into zombies here.)
+
+And there's Massospora cicadina, which pumps its cicada hosts full of hallucinogenic drugs and causes part of their abdomens to fall off. The bare-bottomed cicada then wiggles its way towards death-again in the interest of spore dispersal.
+
+"It's exciting terrain at the fringes of our understanding to look at the extent of how parasites control their host," Klein says. "If animals are so easily manipulated, what does that mean about us?"
+
+
+
+
+
+See the ocean's glow-in-the-dark world on a fluorescent night dive.
+
+These kaleidoscopic swims help us better understand and protect our seas. Here's why - and where - to try it.
+
+From paddle trips atop glowing waters to festivals for twinkling fireflies, nature enthusiasts circle the globe to experience bioluminescence. But this eye-catching phenomenon, most prevalent in summer, isn't the animal kingdom's only mesmerizing light show.
+
+Some travelers are discovering the ocean's vast, yet often secretive, world of biofluorescence - a seascape where fish glow in lime-green patterns, corals sway in neon hues, and shimmering viridescent seahorses could be mistaken for extraterrestrials.
+
+The way in? Fluorescent diving, an activity once reserved for marine biologists. "It's like you're on a different planet," says longtime diver Alisha Postma, co-founder of scuba blog Dive Buddies 4 Life.
+
+Like many marine phenomena, biofluorescence might as well be something from a different planet. More than 80 percent of the ocean has never been explored, and according to NASA, we know more about the moon's surface than we do our own sea floor. And we're only just beginning to understand topics such as ocean biofluorescence.
+
+Scientists have tuned into the phenomenon within the past 10 years, says marine biologist and National Geographic Explorer David Gruber. He has helmed several breakthroughs on the subject, including a 2019 study that found how animals create these glowing effects with molecules that were previously unknown to science. He worked on a 2014 study proving biofluorescence is widespread among more than 200 fish. His research has also shown that certain sharks and even reptiles, including sea turtles, display glow-in-the-dark powers - a revolutionary finding that was named one of National Geographic's top 20 discoveries of the 2010s.
+
+According to Gruber, fluorescent dives and snorkeling trips make even the most familiar reefs and dive spots look brand new. "People who think they've seen the ocean and know it well, suddenly they're just blown away," he says. He notes that this glimpse behind the curtain, while fantastical in color, is not just for our novelty. "These animals are sharing a secret with us," he says, and that it's our responsibility to use this knowledge to protect them.
+
+What is biofluorescence?
+
+The logistics of a night dive are pretty simple: "You put on a yellow mask then turn on your blue light, and suddenly, especially on a coral reef, it'll just totally light up," says Gruber. The "why" is a bit more involved.
+
+Just as animals hear the world differently - consider bats, which communicate largely via frequencies beyond our hearing range - they see the world differently, too.
+
+With biofluorescence, blue wavelengths of light hit the surface of an animal and are then emitted as a different color, usually vivid greens, oranges, and reds. This is different from bioluminescence, where animals such as jellyfish or fireflies generate their own light through a chemical reaction.
+
+The ocean adds a layer of complexity to the phenomenon. While humans can see light in shades of red, green, and blue, our vision falters underwater. As the ocean gets deeper, certain wavelengths of color in the visible light spectrum are filtered out. At around 20 feet, red is gone. After 100 feet, it's virtually all blue and green until you hit the light-free midnight zone, roughly 3,000 feet below the surface. 
+
+Many marine animals closer to the sea floor have evolved to have yellow eye filters that help them detect biofluorescence in other fish. Humans, however, need special equipment like yellow mask filters and blue dive lights to see these creatures glow in kaleidoscopic colors underwater.
+
+See this secret world.
+
+Fluorescent diving may feel like an exotic expedition, but it's increasingly available in dive centers around the globe, according to Eric Albinsson of the global dive authority Professional Association of Diving Instructors (PADI). He says anywhere with "tropical seas and healthy coral" is ideal. Unlike bioluminescence, which is most common in summer, travelers can see biofluorescence year-round.
+
+The only fluorescent diving requirement is the standard PADI open-water certification, but the organization's night-dive specialty course promises added safety in these dark conditions. At the very least, it's wise to first experience a few night dives with the usual bright torch lights (both for safety and the protection of fragile species). "You don't want to be bobbing up and down and disrupting the [ocean] bottom," says Postma, who's taken multiple fluorescent diving trips off Bonaire, an island in the Caribbean.
+
+Bonaire, known for impressively healthy (but increasingly threatened) reefs, has made a name for itself as a fluorescent diving hot spot. It was one of the first destinations to offer the experience to hobbyist divers, according to PADI. Lars Bosman of Bonaire-based Buddy Dive Resort says the activity lets divers see creatures they might miss during the day, such as anemones or sand-diver fish that hide on the ocean floor. One study based in Australia shows the ocean's well-camouflaged species, known as "cryptic fish," are up to 70 times more likely to glow than more visible critters.
+
+In recent years, destinations including Thailand and the Maldives have made this colorful experience available to non-divers through fluorescent snorkeling. "Some reefs in the Maldives are quite shallow, [so] fluorescent snorkeling can be just as enjoyable as fluorescent diving," says Ahmed Mujthaba, owner of Mujavaz Scuba and Travels. Mujthaba notes that distance from light pollution makes the biofluorescent hues more vibrant.
+
+Explore, then protect.
+
+Whether you're a first-time fluorescent snorkeler or a seasoned marine biologist, you're bound to leave with new questions about the ocean. "It's like a mystery novel that keeps going deeper," says Gruber.
+
+Gruber first noticed biofluorescence in fish when a neon green eel was spotted in his photo research of biofluorescent coral. Over the past decade, scientists have found evidence for biofluorescence in more than 200 species of fish, including two species of catsharks, and marine turtles. But with so little research on how and why these marine animals glow, scientists have more questions than answers. Likely theories for biofluorescence uses include interspecies communication, finding mates, camouflaging from predators, and hunting prey.
+
+To chip away at these mysteries and better understand how light affects them, Gruber and his team create cameras that mimic the eyes of biofluorescent marine animals to see the world from their point of view. When they discovered biofluorescence in catsharks, they created a camera equipped with special filters to simulate how light hits their eyes. It unveiled two important insights: catsharks see the green biofluorescence they emit themselves, and they can increase the contrast of their fluorescent patterns.
+
+Their research isn't just important for science; it's paving the way for smarter conservation practices. After all, the more we know about marine life, the better we can protect it.

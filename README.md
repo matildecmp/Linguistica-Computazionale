@@ -1,1 +1,1 @@
-Operazioni computazionali varie eseguite su due corpora in lingua inglese, contenenti testi estratti rispettivamente da articoli di argomento scientifico tratti dal sito di *National* *Geographic* ("natgeo.txt") e da romanzi di fantascienza ("scifi.txt")
+Operazioni computazionali varie eseguite su due corpora in lingua inglese, contenenti testi estratti da articoli scientifici di *National* *Geographic* ("natgeo.txt") e da romanzi di fantascienza ("scifi.txt")

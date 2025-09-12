@@ -1,4 +1,4 @@
-<h3>Operazioni computazionali varie eseguite su due corpora in lingua inglese, contenenti testi estratti da articoli scientifici di <i>National Geographic</i> ("natgeo.txt") e da romanzi di fantascienza ("scifi.txt")</h3>
+<h3>Various computational operations performed on two corpora in English, containing excerpts from scientific articles in <i>National Geographic</i> ("natgeo.txt") and from science fiction novels ("scifi.txt")</h3>
 
-Realizzato da Matilde Campanardi</br>
-CdL Informatica Umanistica, a.a. 2022/2023
+Developed by Matilde Campanardi</br>
+BSc in Digital Humanities [a.y. 2022/23]

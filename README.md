@@ -4,5 +4,5 @@
 
 <img width="261" height="152" alt="image" src="https://github.com/user-attachments/assets/95ca31b2-11f9-4825-a934-4a4c7864e535" />
 
-Developed by Matilde Campanardi in Python</br>
+Developed by Matilde Campanardi</br>
 BSc in Digital Humanities [a.y. 2022/23]
